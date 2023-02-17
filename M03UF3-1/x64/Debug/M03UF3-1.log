@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+C:\Users\oriol\source\repos\M03UF3-1\M03UF3-1\map.h(12,35): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDato' cuando no hay ninguna variable declarada
+C:\Users\oriol\source\repos\M03UF3-1\M03UF3-1\map.h(19,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tCasilla' cuando no hay ninguna variable declarada
+  main.cpp
+C:\Users\oriol\source\repos\M03UF3-1\M03UF3-1\map.h(12,35): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tDato' cuando no hay ninguna variable declarada
+C:\Users\oriol\source\repos\M03UF3-1\M03UF3-1\map.h(19,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tCasilla' cuando no hay ninguna variable declarada
+  Generando código...
+  M03UF3-1.vcxproj -> C:\Users\oriol\source\repos\M03UF3-1\x64\Debug\M03UF3-1.exe
